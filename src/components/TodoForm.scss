@@ -1,0 +1,22 @@
+.todoForm {
+  margin: 10vh;
+}
+Button {
+  width: 150px;
+  margin-top: 50px;
+  background: green;
+}
+Form {
+    display: inline-block;
+    justify-content: space-between;
+}
+
+.input {
+    width: 100vh;
+    border: none;
+    border-bottom: 0.5px solid green;
+}
+.btn_submit {
+    width: 30vh;
+    background:transparent;
+}
